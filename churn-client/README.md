@@ -19,4 +19,4 @@ Ce projet fournit un pipeline de classification pour la prédiction du churn des
 Voir le fichier README.md pour les instructions détaillées (Docker, MLflow, API).
 
 ## Auteur
-Automatiquement généré.
+Amine NAKROU
